@@ -95,12 +95,12 @@
             })(jQuery);
 
 
-            $(document).ready(function () {   
+            $(document).ready(function () {
+
                 $("#GridView1").chromatable({
-                   // width: "1000px",
+                    width: "300px",
                     height: "600px",
                     scrolling: "yes"
                 });
 
             });
-        
